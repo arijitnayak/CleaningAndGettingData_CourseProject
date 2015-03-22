@@ -29,3 +29,11 @@ The zip file containing the data is first downloaded and unzipped. Then as per t
 * Uses descriptive activity names to name the activities in the data set.
 * Appropriately labels the data set with descriptive variable names.
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+Among the files contained in the zip file, the followng were used for creating the tidy data:
+- [x] train/X_train.txt
+- [x] train/y_train.txt
+- [x] test/X_test.txt
+- [x] test/y_test.txt
+- [x] train/subject_train.txt
+- [x] test/subject_test.txt
