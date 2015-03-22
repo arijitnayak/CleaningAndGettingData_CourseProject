@@ -22,3 +22,10 @@ This the text file containing the tidy data set which is nothing but the output 
 Describes the data set.
 
 
+### **Summary**
+The zip file containing the data is first downloaded and unzipped. Then as per the instructions given in the project requirement, a R script is written to do the following:
+    1. Merges the training and the test sets to create one data set.
+    2. Extracts only the measurements on the mean and standard deviation for each measurement.
+    3. Uses descriptive activity names to name the activities in the data set.
+    4. Appropriately labels the data set with descriptive variable names.
+    5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
