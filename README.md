@@ -13,6 +13,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Data could be downloaded from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 This file is a part of the entire submission of course project of the coursera course **Getting and Cleaning Data**
 
 ### averages.txt
@@ -37,3 +38,5 @@ Among the files contained in the zip file, the followng were used for creating t
 - [x] test/y_test.txt
 - [x] train/subject_train.txt
 - [x] test/subject_test.txt
+
+When the R script is executed, a txt file, named *averages.txt*, is created in the working directory. This file is nothing but the intended tidy data set.
